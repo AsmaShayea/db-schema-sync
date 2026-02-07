@@ -118,7 +118,7 @@ Example GitHub Actions workflow:
 ## Installation
 
 ```bash
-git clone https://github.com/devtools/db-schema-sync.git
+git clone https://github.com/AsmaShayea/db-schema-sync.git
 cd db-schema-sync
 pip install -r requirements.txt
 ```
